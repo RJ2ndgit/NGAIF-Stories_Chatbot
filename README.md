@@ -55,8 +55,12 @@ Other Utility Libraries : **json**, **pickle**, **numpy**, **random**.
    python stories_app.py
    ```
 
+
+
+
+
 ### Output
 
-<img src="output/VID_20250105_184114.mp4" >
+https://github.com/user-attachments/assets/321f36d7-521a-4ce7-8e10-32973aa38f5e
 
 
