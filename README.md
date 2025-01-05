@@ -57,6 +57,6 @@ Other Utility Libraries : **json**, **pickle**, **numpy**, **random**.
 
 ### Output
 
-<img src="output/VID_20250105_184114.gif" >
+<img src="output/VID_20250105_184114.mp4" >
 
 
